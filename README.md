@@ -2,9 +2,13 @@
 
 ## crud simples com php e vuejs par aprendizado.
 
-### Como utilizar
- - Crie um banco de dados mysql e altere o arquivo process.php nas variaveis $host, $user, $dbsa de acordo com o servidor que você utiliza
- - O banco deve conter os seguintes campos
-  - id , chave primaria, auto incremento
+> Como utilizar
+  - Crie um banco de dados mysql e altere o arquivo process.php, nas variáveis correspondentes.
+  - O banco de dados deve conter os seguintes campos:
+  - <strong> id, primary_key, auto_increment
   - name, varchar(255)
-  - email, varchar(255)
+  - email, varchar(255) </strong>
+
+### Inicie seu servidor e efetue os devidos teste,
+
+Bons estudos...
