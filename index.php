@@ -82,7 +82,7 @@
       </div>
     </div>
 
-    <!-- Model Adicionar novo usuario -->
+    <!-- Modal Adicionar novo usuario -->
     <div id="overlay" v-if="showAddModal">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -109,9 +109,9 @@
           </div>
         </div>
       </div>
-    </div><!-- Fim Model Adicionar novo usuario -->
+    </div><!-- Fim Modal Adicionar novo usuario -->
 
-    <!-- Model atualizar usuario -->
+    <!-- Modal atualizar usuario -->
     <div id="overlay" v-if="showEditModal">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -140,7 +140,7 @@
       </div>
     </div><!-- Fim Model Atualizar usuario -->
 
-    <!-- Model atualizar usuario -->
+    <!-- Modal atualizar usuario -->
     <div id="overlay" v-if="showDeleteModal">
       <div class="modal-dialog">
         <div class="modal-content">
@@ -168,7 +168,7 @@
           </div>
         </div>
       </div>
-    </div><!-- Fim Model Delete usuario -->
+    </div><!-- Fim Modal Delete usuario -->
 
   </div>
 
