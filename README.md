@@ -9,6 +9,6 @@
   - name, varchar(255)
   - email, varchar(255) </strong>
 
-### Inicie seu servidor e efetue os devidos teste,
+### Inicie seu servidor e efetue os devidos testes.
 
 Bons estudos...
